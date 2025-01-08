@@ -629,6 +629,7 @@ main {
   text-align: center;
   border-radius: 9px;
   background-color: #ffefdf;
+  color: #062630;
 }
 
 @media screen and (max-width: 850px) {
@@ -640,7 +641,7 @@ main {
   }
   .options__content {
     flex-direction: column;
-    text-align: center;
+    text-align: start;
     align-items: center;
   }
   .options__content__secondary {
@@ -658,7 +659,7 @@ main {
   }
   .options__content {
     flex-direction: column;
-    text-align: center;
+    text-align: start;
   }
   .options__content__secondary {
     margin-bottom: 2.4rem;

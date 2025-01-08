@@ -309,6 +309,7 @@
   text-align: center;
   border-radius: 9px;
   background-color: $light-salmon-100;
+  color: $neutral-900;
 }
 
 @media screen and (max-width: 850px) {
@@ -322,7 +323,7 @@
 
   .options__content {
     flex-direction: column;
-    text-align: center;
+    text-align: start;
     align-items: center;
   }
 
@@ -344,7 +345,7 @@
 
   .options__content {
     flex-direction: column;
-    text-align: center;
+    text-align: start;
   }
 
   .options__content__secondary {
