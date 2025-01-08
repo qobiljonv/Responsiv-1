@@ -401,3 +401,17 @@
   }
 }
 /* SECTION 5 END  */
+
+@media screen and (max-width: 850px) {
+  .container {
+    padding-left: 3.2rem;
+    padding-right: 3.2rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .container {
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+  }
+}
